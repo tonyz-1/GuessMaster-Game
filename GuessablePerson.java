@@ -1,4 +1,3 @@
-//Tony Zheng 20187099
 
 public class GuessablePerson<T extends Person> implements Guessable, Cloneable {
 	protected T person;				//instance variables
