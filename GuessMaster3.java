@@ -1,4 +1,3 @@
-//Tony Zheng 20187099
 
 import java.io.File;
 import java.io.FileInputStream;
